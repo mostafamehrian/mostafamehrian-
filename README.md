@@ -90,5 +90,5 @@ Bermo is a web application for booking sports facilities that allows users to re
 - GitHub: [https://github.com/mostafamehrian](https://github.com/mostafamehrian)
 - LinkedIn: (Add your link)
 - Portfolio: (Add your link)
-- Telegram: (https://t.me/Mostafamehrianpoor)
+- Telegram: https://t.me/Mostafamehrianpoor
 
